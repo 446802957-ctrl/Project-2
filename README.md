@@ -19,4 +19,5 @@ Id: 446802957
 Click `src/project2/` folder above to view all .java files.
 
 ## ▶️ How to Run
-Open in Eclipse → Run `Main.java`
+Open in Eclipse → Run `Main.java`  
+Or run the `Project2.jar` file
